@@ -6297,7 +6297,7 @@ body.blue {
       body.blue #bottom-footer .copyright a {
         color: #159eee; }
   body.blue #panel {
-    position: fixed;
+    position: relative;
     top: 175px;
     z-index: 9999; }
     body.blue #panel .open span {
